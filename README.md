@@ -95,7 +95,7 @@
     </tr>
        <tr>
       <td><a href="https://github.com/IncursioHack/ESP-Game-Server"><b>ESP Game Server</b></a></td>
-      <td>Project that transforms ESP32 and M5 Cardputer into a Classic Console Emulator Server.</td>
+      <td>Project that transforms ESP32 and M5 Cardputer and StickC into a Classic Console Emulator Server.</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/IncursioHack/ESP-Game-Server?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/IncursioHack/ESP-Game-Server?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/IncursioHack/ESP-Game-Server?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
