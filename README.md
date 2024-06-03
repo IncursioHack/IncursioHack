@@ -85,13 +85,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/IncursioHack/bruce-incursio"><b>Bruce Incursio</b></a></td>
-      <td>Fork of the Bruce project for Cardputer with the inclusion of RFID2.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/IncursioHack/bruce-incursio?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/IncursioHack/bruce-incursio?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/IncursioHack/bruce-incursio?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/IncursioHack/bruce-incursio?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/downloads/IncursioHack/bruce-incursio/total?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
+      <td><a href="https://github.com/IncursioHack/Bruce"><b>Bruce (Fork)</b></a></td>
+      <td>Fork of the Bruce project for M5 Cardputer and StickC with the inclusion of RFID2 and RF433.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/IncursioHack/Bruce?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/IncursioHack/Bruce?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/IncursioHack/Bruce?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/IncursioHack/Bruce?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/downloads/IncursioHack/Bruce/total?style=flat-square&logo=react-simple-pull-to-refresh&labelColor=343b41"/></td>
     </tr>
        <tr>
       <td><a href="https://github.com/IncursioHack/ESP-Game-Server"><b>ESP Game Server</b></a></td>
